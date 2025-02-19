@@ -1,4 +1,4 @@
-# GCT-OSDA
+# GDT-OSDA
 项目名称: A Gaussian distribution-based feature modeling and dynamic thresholding framework for open-set domain adaptation in fault diagnosis
 
 1. 环境配置: win11, tensorflow 2.10.0, keras.
